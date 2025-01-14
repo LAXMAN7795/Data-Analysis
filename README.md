@@ -51,3 +51,6 @@ Parental marital status has little to no impact on scores.
 **Future Work**
 Investigate additional factors that might influence student performance.
 Build predictive models using machine learning to forecast student scores.
+
+**Telecom Churn Data Analysis**
+Analysed using numpy, pandas, matplotlib and seaborn
